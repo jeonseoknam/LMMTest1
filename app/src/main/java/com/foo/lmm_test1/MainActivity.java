@@ -20,5 +20,6 @@ public class MainActivity extends AppCompatActivity {
         binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
+        //멤버 전석남이 다른 멤버들에게 변경사항 알림
     }
 }
